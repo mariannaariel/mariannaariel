@@ -1,5 +1,5 @@
 # 💫 About Me:
-Marianna Ariel (she/her)<br>computer engineering student 💻<br>studying cybersecurity,qa and qe<br>speaks: 🇧🇷/🇺🇸/🇫🇷
+Marianna Ariel (she/her)<br>computer engineering student 💻<br>studying cybersecurity<br>speaks: 🇧🇷/🇺🇸/🇫🇷
 
 
 ## 🌐 Socials:
