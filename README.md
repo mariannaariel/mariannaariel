@@ -1,6 +1,6 @@
 # 💫 About Me:
-Marianna Ariel (she/her)<br>computer engineering student 💻<br>studying cybersecurity  
-working with monitoring and observability at the moment <br>speaks: 🇧🇷/🇺🇸/🇫🇷
+Marianna Ariel (she/her)<br>computer engineering student 💻<br> cybersecurity - blue team malware analysis and threat hunting -    
+monitoring and observability <br>speaks: 🇧🇷/🇺🇸/🇫🇷
 
 
 ## 🌐 Socials:
